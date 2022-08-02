@@ -8,6 +8,7 @@
 什么是魔法函数
     1. 双下划线开头, 双下划线结尾
     2. 对类进行强化, 的操作
+    3. 魔法函数真的会影响Python的语法, 也让我们看清了, 类的本质
 """
 
 
@@ -27,11 +28,12 @@ class Person(object):
     def __init__(self, employee_list):
         self.employee_list = employee_list
 
-    def __getitem__(self, item):
+    def __getitem__(self, item):  # 兑现序列化
         return self.employee_list[item]
 
 
 person = Person(["ls", "hcl", "ls"])
+print(person[:2])
 
 for em in person:
     print(em)
