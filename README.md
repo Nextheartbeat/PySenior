@@ -1,2 +1,2 @@
 # PySenior
-Python senior advanced programming
+Python advanced programming
