@@ -2,7 +2,7 @@
 # encoding: utf-8
 # author: nextHeartbeat
 # software: pycharm
-# file: all_is_object.py
+# file: main.py
 # time: 2022/8/2 11:13
 """对象的三大特征: 身份(内存地址), 类型, 值"""
 
