@@ -2,7 +2,7 @@
 # encoding: utf-8
 # author: nextHeartbeat
 # software: pycharm
-# file: demo01.py
+# file: demo02.py
 # time: 2022/8/3 10:32
 """
     抽象基类(abs模块):
