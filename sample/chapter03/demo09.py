@@ -2,7 +2,7 @@
 # encoding: utf-8
 # author: nextHeartbeat
 # software: pycharm
-# file: demo08.py
+# file: demo09.py
 # time: 2022/8/4 14:32
 """super 真的是调用父类吗?"""
 
